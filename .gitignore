@@ -1,0 +1,24 @@
+
+# Folders
+/__pycache__
+/figs
+/data
+/fig
+
+
+# Figures
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.eps
+
+
+*.out
+
+
+# Temporary files
+*~
+~*
